@@ -1,0 +1,477 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1715949880909407, "dur":56, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715949880909516, "dur":28869, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715949880938395, "dur":264, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715949880938745, "dur":850, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715949880939791, "dur":123, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1715949880939956, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1715949880940056, "dur":124, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1715949880940214, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1715949880940274, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1715949880940612, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715949880940690, "dur":113, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715949880940896, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715949880941003, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715949880941308, "dur":129, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715949880941545, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715949880941856, "dur":113, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715949880942048, "dur":120, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715949880942243, "dur":171, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715949880942625, "dur":201, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715949880942918, "dur":257, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715949880943218, "dur":133, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715949880943804, "dur":104, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715949880944477, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715949880944564, "dur":142, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Analytics.Tracker.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715949880944781, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1715949880945500, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1715949880946141, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":0, "ts":1715949880939632, "dur":6665, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715949880946300, "dur":295502, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715949881241803, "dur":469, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715949881242391, "dur":76, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715949881242657, "dur":3970, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1715949880940066, "dur":6277, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715949880946349, "dur":898, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715949880947247, "dur":6582, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715949880953874, "dur":241, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.29f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1715949880953836, "dur":280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1715949880954117, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715949880972819, "dur":2732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1715949880975690, "dur":2055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715949880977923, "dur":2934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715949880980915, "dur":179, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715949880981117, "dur":4389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715949880985650, "dur":3610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.Purchasing.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715949880989322, "dur":271, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715949880989625, "dur":4267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.Purchasing.WinRTStub.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715949880993963, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715949880994064, "dur":3268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715949880997398, "dur":188, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715949880997613, "dur":4808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715949881002489, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715949881002616, "dur":4586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.Purchasing.Stores.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715949881007262, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715949881007375, "dur":4946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715949881012378, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715949881012549, "dur":5966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715949881018604, "dur":242, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715949881018884, "dur":6775, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715949881025724, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715949881025829, "dur":8986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715949881034925, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1715949881035028, "dur":7126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715949881042225, "dur":52, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.29f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715949881042221, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715949881042336, "dur":48816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1715949881091206, "dur":150605, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715949880940621, "dur":5903, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715949880946532, "dur":1032, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715949880947564, "dur":6283, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715949880953848, "dur":269, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1715949880954118, "dur":156, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715949880994539, "dur":2391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1715949880996993, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715949880997144, "dur":4536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715949881001742, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715949881001855, "dur":4859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715949881006773, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715949881006923, "dur":5455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715949881012448, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715949881012556, "dur":6098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715949881018714, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715949881018879, "dur":6743, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715949881025689, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715949881025794, "dur":9098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715949881034993, "dur":200, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1715949881035221, "dur":7074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1715949881042379, "dur":2462, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":2, "ts":1715949881044958, "dur":5048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1715949881050091, "dur":191731, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949880940248, "dur":6190, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949880946447, "dur":1057, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949880947504, "dur":6335, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949880953840, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1715949880954081, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949880956734, "dur":3491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1715949880960283, "dur":147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1715949880960682, "dur":1389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1715949880962130, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1715949880962297, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949880962423, "dur":2329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1715949880964808, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.29f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715949880964806, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715949880965220, "dur":2292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715949880967566, "dur":151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1715949880967718, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949880968174, "dur":5081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1715949880973346, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949880973474, "dur":3948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715949880977484, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949880977621, "dur":2961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715949880980642, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949880980779, "dur":3331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715949880984183, "dur":174, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949880984386, "dur":1895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715949880986336, "dur":146, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949880986511, "dur":4664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715949880991219, "dur":635, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949880991884, "dur":3423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715949880995372, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949880995544, "dur":3345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Purchasing.Common.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715949880998952, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949880999041, "dur":6012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.Purchasing.WinRTCore.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715949881005115, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949881005270, "dur":4909, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715949881010266, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949881010436, "dur":5063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715949881015561, "dur":237, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949881015834, "dur":6259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715949881022196, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949881022329, "dur":6652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715949881029065, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949881029215, "dur":9014, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715949881038298, "dur":178, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1715949881038508, "dur":9343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1715949881047956, "dur":4505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1715949881052522, "dur":189316, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715949880939990, "dur":6341, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715949880946336, "dur":853, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715949880947190, "dur":6646, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715949880953837, "dur":334, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1715949880954172, "dur":194, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715949881008708, "dur":3054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1715949881011826, "dur":193, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715949881012052, "dur":5588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715949881017891, "dur":240, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715949881018133, "dur":295, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715949881018494, "dur":5984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715949881024538, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715949881024685, "dur":9339, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715949881034086, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715949881034231, "dur":6733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1715949881041023, "dur":163, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\com.unity.services.core\\UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":4, "ts":1715949881041022, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":4, "ts":1715949881041188, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715949881041934, "dur":1851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":4, "ts":1715949881043852, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1715949881043974, "dur":5219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1715949881049264, "dur":192529, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715949880939771, "dur":6548, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715949880946325, "dur":7491, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715949880953858, "dur":196, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715949880954069, "dur":127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1715949880954207, "dur":8316, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1715949880962526, "dur":133, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1715949880962983, "dur":175, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880963161, "dur":72, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.AppleMacosStub.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880963234, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.AppleCore.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880963306, "dur":176, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.Stores.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880963484, "dur":74, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880963560, "dur":72, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880963633, "dur":63, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.AppleStub.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880963697, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.WinRTCore.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880963757, "dur":63, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.SecurityStub.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880963822, "dur":65, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Analytics.DataPrivacy.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880963888, "dur":98, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880963988, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880964052, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880964113, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880964185, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880964265, "dur":100, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Purchasing.Common.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880964367, "dur":72, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880964440, "dur":85, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Advertisements.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880964526, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880964586, "dur":213, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880964800, "dur":97, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880964898, "dur":143, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880965046, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880965126, "dur":61, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880965188, "dur":79, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880965269, "dur":64, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.WinRTStub.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880965334, "dur":108, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Analytics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880965444, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.SecurityCore.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880965511, "dur":74, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.Codeless.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880965586, "dur":269, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880965856, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880965923, "dur":70, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880965995, "dur":100, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Mariu\\OneDrive\\Desktop\\lab\\Rocket-Man-Summer-Edition-Mobile-master\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.dll" }}
+,{ "pid":12345, "tid":5, "ts":1715949880966149, "dur":79, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player2cda50d9-inputdata.json" }}
+,{ "pid":12345, "tid":5, "ts":1715949880954067, "dur":12228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1715949880966692, "dur":61, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1715949880967124, "dur":255402, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1715949881230381, "dur":9560, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1715949881230379, "dur":9564, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1715949881239986, "dur":1727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/boot.config" }}
+,{ "pid":12345, "tid":6, "ts":1715949880940500, "dur":5955, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715949880946461, "dur":1042, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715949880947504, "dur":6354, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715949880953859, "dur":433, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1715949880954293, "dur":299, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715949881022687, "dur":2164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1715949881024917, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715949881025010, "dur":8284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715949881033373, "dur":194, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715949881033633, "dur":6317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715949881040013, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1715949881040154, "dur":10074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1715949881050280, "dur":191576, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715949880940675, "dur":5948, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715949880946643, "dur":1464, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715949880948108, "dur":5741, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715949880953850, "dur":261, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1715949880954112, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715949880971844, "dur":2917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":7, "ts":1715949880974923, "dur":2125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715949880977109, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715949880977206, "dur":2954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715949880980224, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715949880980344, "dur":4879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715949880985366, "dur":3298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715949880988732, "dur":247, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715949880989013, "dur":4370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Services.Analytics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715949880993483, "dur":106, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715949880993620, "dur":3984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715949880997671, "dur":181, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715949880997887, "dur":5930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715949881003880, "dur":288, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715949881004210, "dur":3700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.Purchasing.AppleCore.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715949881007976, "dur":213, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715949881008220, "dur":4892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715949881013178, "dur":116, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715949881013353, "dur":6595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715949881020016, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715949881020113, "dur":5936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715949881026116, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715949881026248, "dur":8996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715949881035302, "dur":60, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1715949881035388, "dur":7335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1715949881042806, "dur":37638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1715949881080523, "dur":161284, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715949880940792, "dur":5903, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715949880946715, "dur":1342, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715949880948057, "dur":5804, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715949880953905, "dur":364, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.29f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1715949880953863, "dur":407, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1715949880954271, "dur":203, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715949881010384, "dur":2616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1715949881013068, "dur":289, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715949881013392, "dur":7136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715949881020599, "dur":257, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715949881020927, "dur":5210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715949881026210, "dur":221, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715949881026465, "dur":9036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715949881035563, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715949881035676, "dur":7758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1715949881043514, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1715949881043650, "dur":4493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":8, "ts":1715949881048256, "dur":10201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1715949881058529, "dur":183318, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715949880940907, "dur":5823, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715949880946738, "dur":1247, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715949880947985, "dur":5856, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715949880953871, "dur":263, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.29f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":9, "ts":1715949880953842, "dur":293, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1715949880954136, "dur":191, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715949881007820, "dur":2220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1715949881010096, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715949881010221, "dur":4839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715949881015124, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715949881015241, "dur":8708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715949881024038, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715949881024149, "dur":7643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715949881031949, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715949881032146, "dur":7184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715949881039401, "dur":289, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1715949881039719, "dur":9238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1715949881049067, "dur":2772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":9, "ts":1715949881051898, "dur":189935, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715949880941102, "dur":5647, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715949880946756, "dur":707, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715949880947464, "dur":6402, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715949880953867, "dur":415, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1715949880954283, "dur":200, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715949881011928, "dur":2372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1715949881014355, "dur":201, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715949881014580, "dur":6833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715949881021481, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715949881021602, "dur":6252, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715949881027922, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715949881028052, "dur":9191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715949881037312, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1715949881037422, "dur":8584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1715949881046138, "dur":4175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/level0.resS" }}
+,{ "pid":12345, "tid":10, "ts":1715949881050376, "dur":191451, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715949880941313, "dur":5456, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715949880946770, "dur":7094, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715949880953866, "dur":485, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1715949880954352, "dur":252, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715949881023479, "dur":2433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":11, "ts":1715949881025977, "dur":239, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715949881026242, "dur":8861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715949881035178, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1715949881035272, "dur":8029, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1715949881043389, "dur":5192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1715949881048841, "dur":3776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":11, "ts":1715949881052674, "dur":189229, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715949880941429, "dur":5364, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715949880946794, "dur":7058, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715949880953903, "dur":456, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.29f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":12, "ts":1715949880953856, "dur":505, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1715949880954362, "dur":255, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715949881021999, "dur":2195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1715949881024259, "dur":365, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715949881024653, "dur":8593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715949881033315, "dur":253, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715949881033639, "dur":6363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715949881040085, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1715949881040185, "dur":9315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1715949881049559, "dur":192237, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715949880941539, "dur":5272, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715949880946811, "dur":7015, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715949880953856, "dur":231, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.29f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":13, "ts":1715949880953836, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":13, "ts":1715949880954092, "dur":98, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715949880970468, "dur":5568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":13, "ts":1715949880976108, "dur":287, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715949880976428, "dur":2467, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715949880978965, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715949880979071, "dur":2804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715949880981936, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715949880982010, "dur":3262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715949880985406, "dur":3057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Analytics.Tracker.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715949880988534, "dur":137, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715949880988696, "dur":3880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.Purchasing.SecurityCore.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715949880992637, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715949880992737, "dur":3403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715949880996252, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715949880996351, "dur":3806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715949881000215, "dur":195, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715949881000460, "dur":5516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715949881006043, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715949881006146, "dur":5257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715949881011469, "dur":59, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715949881011700, "dur":5153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715949881016898, "dur":180, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715949881017105, "dur":6884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715949881024115, "dur":178, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715949881024326, "dur":9536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715949881033929, "dur":183, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715949881034139, "dur":6191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715949881040396, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1715949881040516, "dur":9409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1715949881049978, "dur":191839, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715949880941925, "dur":4910, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715949880946836, "dur":7010, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715949880953870, "dur":229, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.29f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1715949880953847, "dur":253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1715949880963079, "dur":1766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1715949880964893, "dur":140, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.29f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715949880964890, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715949880965035, "dur":132, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715949880965292, "dur":11329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715949880976733, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715949880976823, "dur":2307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715949880979209, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715949880979337, "dur":3211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715949880982611, "dur":233, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715949880982873, "dur":2814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715949880985750, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715949880985833, "dur":4097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715949880990009, "dur":88, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715949880990127, "dur":4692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715949880994876, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715949880994951, "dur":3329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715949880998333, "dur":293, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715949880998654, "dur":5836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.Purchasing.SecurityStub.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715949881004690, "dur":4157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715949881008898, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715949881009021, "dur":5148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715949881014232, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715949881014334, "dur":6854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715949881021253, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715949881021364, "dur":5985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715949881027411, "dur":214, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715949881027662, "dur":9012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715949881036735, "dur":253, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1715949881037021, "dur":8518, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1715949881045694, "dur":6961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/resources.assets" }}
+,{ "pid":12345, "tid":14, "ts":1715949881052710, "dur":189132, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715949880941729, "dur":5087, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715949880946816, "dur":7007, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715949880955011, "dur":497, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":15, "ts":1715949880955512, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/app.info" }}
+,{ "pid":12345, "tid":15, "ts":1715949880956297, "dur":3114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/app.info" }}
+,{ "pid":12345, "tid":15, "ts":1715949880959417, "dur":128, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.29f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":15, "ts":1715949880959415, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1715949880960126, "dur":1591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":15, "ts":1715949880961772, "dur":170, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.29f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1715949880961769, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1715949880962049, "dur":1885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1715949880963975, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1715949880964087, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715949880964547, "dur":1736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":15, "ts":1715949880966343, "dur":584, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":15, "ts":1715949880966342, "dur":586, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator.exe" }}
+,{ "pid":12345, "tid":15, "ts":1715949880966986, "dur":1817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator.exe" }}
+,{ "pid":12345, "tid":15, "ts":1715949880968872, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715949880969190, "dur":3999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715949880973541, "dur":3527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715949880977119, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715949880977211, "dur":2084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715949880979362, "dur":141, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715949880979535, "dur":3542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715949880983144, "dur":293, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715949880983466, "dur":2301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715949880985828, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715949880985943, "dur":4410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715949880990418, "dur":180, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715949880990647, "dur":4155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715949880994862, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715949880994954, "dur":3241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.Advertisements.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715949880998267, "dur":334, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715949880998624, "dur":5842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Analytics.DataPrivacy.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715949881004536, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715949881004697, "dur":3724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.Purchasing.AppleMacosStub.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715949881008481, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715949881008576, "dur":5051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715949881013701, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715949881013819, "dur":6703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715949881020591, "dur":269, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715949881020931, "dur":6088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715949881027084, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715949881027192, "dur":9162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715949881036427, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1715949881036559, "dur":8148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1715949881044918, "dur":4961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":15, "ts":1715949881049947, "dur":191867, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715949880942053, "dur":4796, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715949880946849, "dur":6994, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715949880953845, "dur":273, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1715949880954119, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715949880982704, "dur":2266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1715949880985066, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715949880985170, "dur":3206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Analytics.StandardEvents.dll" }}
+,{ "pid":12345, "tid":16, "ts":1715949880988442, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715949880988582, "dur":4039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.Purchasing.Codeless.dll" }}
+,{ "pid":12345, "tid":16, "ts":1715949880992681, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715949880992800, "dur":3196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":16, "ts":1715949880996070, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715949880996233, "dur":3444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":16, "ts":1715949880999735, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715949880999882, "dur":5565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.Purchasing.AppleStub.dll" }}
+,{ "pid":12345, "tid":16, "ts":1715949881005515, "dur":244, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715949881005795, "dur":4992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1715949881010849, "dur":235, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715949881011111, "dur":4915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1715949881016074, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715949881016191, "dur":6318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1715949881022576, "dur":283, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715949881022916, "dur":6654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1715949881029720, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715949881029893, "dur":8666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1715949881038629, "dur":130, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1715949881038792, "dur":10209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1715949881049060, "dur":192739, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1715949881251494, "dur":3827, "ph":"X", "name": "ProfilerWriteOutput" }
+,
