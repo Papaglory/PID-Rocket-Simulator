@@ -1,18 +1,18 @@
 ## Description
 
-This program implements a PID (Proportional-Integral-Derivative) controller within a 3D rocket simulation environment. Under specific restrictions and assumptions, the controller is designed to manage the rocket's stability, rotation and movement with respect to a target location. The simulation operates within the physics engine of the Unity game engine.
+This project implements a PID (Proportional-Integral-Derivative) controller within a 3D rocket simulation environment. Under specific restrictions and assumptions, the controller is designed to manage the rocket's stability, rotation and movement with respect to a target location. The simulation operates within the physics engine of the Unity game engine.
 
 ## Preview
 
 ### Maneuverability
 <img src="assets/preview-1.gif" alt="Alt Text" width="600" height="350" />
 
-Descriptiion
+The rocket will make precise adjustments based on the target (represented by the red sphere) to smoothly move to the desired location, minimizing oscillations.
 
 ### Descent
 <img src="assets/preview-2.gif" alt="Alt Text" width="600" height="350" />
 
-Descriptiion
+Observe the rocket's transition from high altitude to ground level as it adjusts its trajectory to a new target by initiating a pre-burn for momentum gain, engine shutdown and finally a 'suicide burn' landing maneuver at the designated location.
 
 ## Assumptions
 
@@ -25,6 +25,10 @@ To simplify some of the complexities of the rocket's movement, we have certain r
 ## Caution
 
 Please note that the code in this project is poorly written and lacks sufficient comments. It has not been rewritten or refactored to adhere to standard coding practices. Therefore, we recommend using the concepts and ideas presented rather than relying on the code itself.
+
+## How to Use
+
+To run the Unity build, simply download the entire build directory and execute the program found within it.
 
 ## Implementations
 
