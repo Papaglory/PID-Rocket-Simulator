@@ -4,8 +4,13 @@ This program implements a PID (Proportional-Integral-Derivative) controller with
 
 ## Preview
 
-### Heat Equation
+### Maneuverability
 <img src="assets/preview-1.gif" alt="Alt Text" width="600" height="350" />
+
+Descriptiion
+
+### Descent
+<img src="assets/preview-2.gif" alt="Alt Text" width="600" height="350" />
 
 Descriptiion
 
