@@ -32,35 +32,27 @@ Please note that the code in this project is poorly written and lacks sufficient
 
 In total, there are three different PID controllers for the rocket: one for the altitude, one for the x rotation and one for the z rotation. Each of the controllers rely on the PID pseudocode given by:
 
-$\textbf{START}$
+```pseudo
+// Calculate error
+error = target - current
 
-  // Calculate error
-  
-  error = target - current
-  
-  // Proportional term
-  
-  proportional = kp * error
-  
-  // Integral term
-  
-  integral += error * deltaTime
-  integralTerm = ki * integral
-  
-  // Derivative term
-  
-  derivative = (error - previousError) / deltaTime
-  derivativeTerm = kd * derivative
-  
-  // Update previous error
-  
-  previousError = error
-  
-  // Calculate PID output
-  
-  output = proportional + integralTerm + derivativeTerm
+// Proportional term
+proportional = kp * error
 
-$\textbf{END}$
+// Integral term
+integral += error * deltaTime
+integralTerm = ki * integral
+
+// Derivative term
+derivative = (error - previousError) / deltaTime
+derivativeTerm = kd * derivative
+
+// Update previous error
+previousError = error
+
+// Calculate PID output
+output = proportional + integralTerm + derivativeTerm
+```
 
 Depending on the controller, the values of 'current' and 'target' are the altitudes of the rocket and target position respectively or the distance in x or z direction. The PID controllers will then give an output trying to reach the target as fast and efficient as possible. By efficient we mean without and extensive amount of osciliating.
 
