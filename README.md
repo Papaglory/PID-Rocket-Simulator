@@ -58,7 +58,7 @@ Depending on the controller, the values of 'current' and 'target' are the altitu
 
 ## Dependencies
 
-Uses the Unity Engine (version 2022.3.29f1) along with the following Unity store assets:
+Uses the Unity Engine (version 2022.3.29f1) along with the following Unity store assets (refer to Acknowledgements file):
 * Free 3D Missile by LunarCats Studio.
 * Simple Urban Buildings Pack 1 by Rune Studios.
 * Wispy Skybox by Mundus.
