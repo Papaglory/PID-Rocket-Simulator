@@ -1,6 +1,6 @@
 ## Description
 
-This project implements a PID (Proportional-Integral-Derivative) controller within a 3D rocket simulation environment. Under specific restrictions and assumptions, the controller is designed to manage the rocket's stability, rotation and movement with respect to a target location. The simulation operates within the physics engine of the Unity game engine.
+This project implements a PID (Proportional-Integral-Derivative) controller within a 3D rocket simulation environment. Under specific restrictions and assumptions, the controller is designed to manage the rocket's stability, rotation and movement with respect to a target location. The simulation operates within the physics engine of the Unity game engine. A Unity project build is included.
 
 ## Preview
 
