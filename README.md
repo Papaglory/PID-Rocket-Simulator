@@ -5,7 +5,7 @@ This program implements a PID (Proportional-Integral-Derivative) controller with
 ## Preview
 
 ### Heat Equation
-<img src="assets/preview-1.gif" alt="Alt Text" width="400" height="350" />
+<img src="assets/preview-1.gif" alt="Alt Text" width="500" height="350" />
 
 Descriptiion
 
