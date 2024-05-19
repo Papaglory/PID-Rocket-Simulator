@@ -5,7 +5,7 @@ This program implements a PID (Proportional-Integral-Derivative) controller with
 ## Preview
 
 ### Heat Equation
-<img src="assets/preview-heat.gif" alt="Alt Text" width="400" height="350" />
+<img src="assets/preview-1.gif" alt="Alt Text" width="400" height="350" />
 
 Descriptiion
 
@@ -61,7 +61,10 @@ Depending on the controller, the values of 'current' and 'target' are the altitu
 
 ## Dependencies
 
-Uses the Unity Engine (version 2022.3.29f1).
+Uses the Unity Engine (version 2022.3.29f1) along with the following Unity store assets:
+* Free 3D Missile by LunarCats Studio.
+* Simple Urban Buildings Pack 1 by Rune Studios.
+* Wispy Skybox by Mundus.
 
 ## Author
 Marius H. Naasen, originally created summer of 2017.
