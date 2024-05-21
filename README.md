@@ -20,7 +20,7 @@ To simplify some of the complexities of the rocket's movement, we have certain r
 * The rocket does not have built-in sensors monitoring its orientation; instead, it has access to the position and rotation data provided by the Unity engine.
 * The rotation around the $y$-axis is locked. This avoids the complexities of rotating around the $x$- or $z$-axis when the $y$ rotation is non-zero.
 * Instead of using thrusters for rotation, the rocket directly modifies the rotation parameter of the game object in Unity. As a result, rotation is not handled by the physics engine.
-* The rocket's rotations around the x- and z-axes are limited to some extent prevent the rocket from flipping upside down.
+* The rocket's rotations around the $x$- and $z$-axes are limited to some extent prevent the rocket from flipping upside down.
 
 ## Caution
 
