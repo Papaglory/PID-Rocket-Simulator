@@ -34,7 +34,7 @@ To run the Unity build, simply download the entire build directory and execute t
 
 ### PID Controllers
 
-In total, there are three different PID controllers for the rocket: one for the altitude, one for the x rotation and one for the z rotation. Each of the controllers rely on the PID pseudocode given by:
+In total, there are three different PID controllers for the rocket: one for the altitude, one for the $x$ rotation and one for the $z$ rotation. Each of the controllers rely on the PID pseudocode given by:
 
 ```pseudo
 // Calculate error
@@ -58,7 +58,7 @@ previousError = error
 output = proportional + integralTerm + derivativeTerm
 ```
 
-Depending on the controller, the values of 'current' and 'target' are the altitudes of the rocket and target position respectively or the distance in x or z direction. The PID controllers will then give an output trying to reach the target as fast and efficient as possible. By efficient we mean without and extensive amount of osciliating.
+Depending on the controller, the values of 'current' and 'target' are the altitudes of the rocket and target position respectively or the distance in $x$ or $z$ direction. The PID controllers will then give an output trying to reach the target as fast and efficient as possible. By efficient we mean without and extensive amount of osciliating.
 
 ## Dependencies
 
