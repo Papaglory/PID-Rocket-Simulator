@@ -16,5 +16,5 @@ We would like to acknowledge the following Unity assets and their creators for t
 
 Furthermore, we would like to give attribution to SpaceX for providing the icon/splash screen image:
 - **twom white flying rockets during daytime by SpaceX**
-  - Website: [SpaceX's Image](https://unsplash.com/photos/twom-white-flying-rockets-during-daytime-MEW1f-yu2KI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+  - Website: [SpaceX's Image on Unsplash](https://unsplash.com/photos/twom-white-flying-rockets-during-daytime-MEW1f-yu2KI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
   - License: Unsplash License
