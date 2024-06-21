@@ -178,11 +178,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1570}
     - Class: 114
+      Script: {instanceID: 1574}
+    - Class: 114
       Script: {instanceID: 1576}
     - Class: 114
       Script: {instanceID: 1578}
-    - Class: 114
-      Script: {instanceID: 1580}
     - Class: 114
       Script: {instanceID: 1582}
     - Class: 114
@@ -244,13 +244,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 5560}
     - Class: 114
-      Script: {instanceID: 6474}
+      Script: {instanceID: 6472}
     - Class: 114
-      Script: {instanceID: 6618}
+      Script: {instanceID: 6616}
     - Class: 114
-      Script: {instanceID: 6700}
+      Script: {instanceID: 6698}
     - Class: 114
-      Script: {instanceID: 6782}
+      Script: {instanceID: 6780}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 123
@@ -310,16 +310,10 @@ ScriptsOnlyBuild:
     className: RotationPID02
   - hash:
       serializedVersion: 2
-      Hash: 9fbe7667d8ea64f5b377469a28b2700b
+      Hash: 9b62eb6af844d58db0f24b7119a003a9
     assemblyName: Assembly-CSharp
     namespaceName: 
-    className: LastRotationPID02
-  - hash:
-      serializedVersion: 2
-      Hash: afba10c597a16135e8a7620da0d9fea2
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: PidController
+    className: TestRotationMotor
   - hash:
       serializedVersion: 2
       Hash: 349dc31467f4de1fa07db2d3c58685b7
@@ -328,10 +322,16 @@ ScriptsOnlyBuild:
     className: CameraMovement
   - hash:
       serializedVersion: 2
-      Hash: 9b62eb6af844d58db0f24b7119a003a9
+      Hash: afba10c597a16135e8a7620da0d9fea2
     assemblyName: Assembly-CSharp
     namespaceName: 
-    className: TestRotationMotor
+    className: PidController
+  - hash:
+      serializedVersion: 2
+      Hash: 9fbe7667d8ea64f5b377469a28b2700b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: LastRotationPID02
   - hash:
       serializedVersion: 2
       Hash: 49d340ec427e1c9b77780effe54d1f31
@@ -1115,4 +1115,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Main.unity
-  playerPath: C:/Users/Mariu/OneDrive/Desktop/testbuidl/Rocket Man Simulator.exe
+  playerPath: C:/Users/Mariu/OneDrive/Desktop/foo/PID-Rocket-Simulator.exe
