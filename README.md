@@ -72,4 +72,4 @@ Uses the Unity Engine (version 2022.3.29f1) along with the following Unity store
 For a more in-depth look at this project, please refer to [mariusnaasen.com/projects/pid-rocket-simulator](https://mariusnaasen.com/projects/pid-rocket-simulator).
 
 ## Author
-Marius H. Naasen, originally created summer of 2017.
+Marius H. Naasen, originally created summer of 2018.
